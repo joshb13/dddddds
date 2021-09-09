@@ -1,2 +1,2 @@
-run= " node index js"
-language = " nodejs "
+run= ""
+language = "nodejs"
